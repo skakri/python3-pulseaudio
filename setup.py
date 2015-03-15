@@ -3,8 +3,8 @@
 from distutils.core import setup
 
 setup(name='libpulseaudio3',
-      version='1.0',
-      description='simple libpulseaudio bindings for python 3',
+      version='6.0',
+      description='PulseAudio bindings for python 3',
       author='Kristaps Karlsons',
       author_email='kristaps.karlsons@gmail.com',
       license='LGPL',

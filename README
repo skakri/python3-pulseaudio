@@ -1,5 +1,5 @@
 PulseAudio ctypes bindings for Python 3.
 
-Generated from b8bcfeb78d2be05cd1f441f292c808c7c4f4abc2.
+Generated from [PulseAudio 6.0](https://github.com/pulseaudio/pulseaudio/releases/tag/v6.0).
 
 Based on https://github.com/Valodim/python-pulseaudio
